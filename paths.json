@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/demo-xwalk/:/",
-    "c/ontent/demo-xwalk/configuration:/.helix/config.json",
+    "/content/demo-xwalk/configuration:/.helix/config.json",
     "/content/demo-xwalk/metadata:/metadata.json"
   ],
   "includes": [
